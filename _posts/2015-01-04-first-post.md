@@ -1,7 +1,6 @@
 ---
 layout: post
-title: First post!
-image: /img/hello_world.jpeg
+title: Questions
 ---
 
-This is my first post, how exciting!
+(Questions to ask)[https://tinyurl.com/y9833u5y]
